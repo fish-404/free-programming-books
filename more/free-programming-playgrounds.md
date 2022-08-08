@@ -309,6 +309,10 @@
 
 * [Extends Class](https://extendsclass.com/sqlite-browser.html)
 * [SQLFiddle](http://sqlfiddle.com)
+* [SQL Online IDE](https://sqliteonline.com/)
+* [SQLime](https://sqlime.org/)
+* [db<>fiddle](https://dbfiddle.uk/)
+* [SQLite3 Fiddle](https://sqlite.org/fiddle/)
 
 
 ### Svelte
